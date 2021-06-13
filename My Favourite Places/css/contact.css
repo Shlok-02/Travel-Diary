@@ -1,0 +1,44 @@
+.form {
+  display: flex;
+  margin-right:130px;
+   margin-bottom: 180px;
+   margin-top: 90px;
+   text-align: center;
+  justify-content: center;
+  height: 400px;
+}
+
+input{
+  padding: 7px;
+  margin: 10px;
+  width: 150%;
+}
+
+#submit{
+  width: 50%; 
+  margin-left: 150px;
+  background-color: rgb(214, 199, 65);
+  border: none;
+  color: black;
+  padding: 10px;
+  height: 40px;
+  cursor: pointer;
+}
+ 
+
+#submit :hover{
+  width: 50%; 
+  margin-left: 150px;
+  background-color: rgb(214, 199, 65);
+  border: none;
+  color: black;
+  padding: 10px;
+  height: 40px; 
+  cursor: pointer;
+}
+
+#input h3{
+  font-size: 26px; 
+  margin-left: 170px;
+  margin-bottom: 20px;
+}
